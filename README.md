@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @J4nvg
 - 👀 I’m interested in all things tech and coding
-- 🌱 I’m currently learning C
-- 👾 Working on WP webdev.
+- 🌱 I’m currently learning C and Matlab;
+- All in favor of getting my Bsc degree in Electrical Engineering 
+
+- 👾 Working on WP webdev. for personal projects
 
 <!---
 J4nvg/J4nvg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
