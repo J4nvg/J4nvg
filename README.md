@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @J4nvg
-- 👀 I’m interested in all things tech and coding
+- 👀 I’m interested in all things tech;
 - 🌱 I’m currently learning C and Matlab;
-- All in favor of getting my Bsc degree in Electrical Engineering 
+-     All in favor of getting my Bsc degree in Electrical Engineering 
 
 - 👾 Working on WP webdev. for personal projects
 
