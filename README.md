@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @J4nvg
+- 👋 Hi, I’m Jan
 
 <!---
 J4nvg/J4nvg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
